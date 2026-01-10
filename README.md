@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0d1117&height=200&section=header&text=Ravi%20Ranjan&fontSize=70&animation=fadeIn&fontAlignY=38&fontColor=36BCF7" width="100%" />
+  <img src="ravi_.jpg" width="100%" />
 </p>
 
 ---
