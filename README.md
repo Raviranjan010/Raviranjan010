@@ -15,7 +15,7 @@ Designing clean, scalable, and performance-focused digital products.
 </p>
 
 <p align="center">
-  <img src="ravi_.jpg" width="180" style="border-radius:50%;" />
+  <img src="ravi_.jpeg" width="180" style="border-radius:50%;" />
 </p>
 
 <p align="center">
