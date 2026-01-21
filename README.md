@@ -9,11 +9,11 @@ Full-Stack Engineer · AI-Aware · Product-Driven
 </h3>
 
 <p align="center">
-I build scalable, high-performance digital products with clean UI, strong architecture, and data-informed decisions.
+I design and build scalable, performance-focused digital products with clean UI and strong system thinking.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=900&color=6AA6FF&center=true&vCenter=true&width=900&lines=Full-Stack+Engineering;AI+%26+Data-Driven+Thinking;Clean+UI+%7C+Scalable+Systems;Build+Once.+Scale+Forever." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=900&color=6AA6FF&center=true&vCenter=true&width=900&lines=Full-Stack+Engineering;AI+%26+Data-Driven+Thinking;Clean+UI+%7C+Scalable+Systems;Consistency+Over+Motivation" />
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ I build scalable, high-performance digital products with clean UI, strong archit
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1br6hFGcO8iJSI1Vyb35y_yaEleYdThRa/view">
-    <img src="https://img.shields.io/badge/Resume-Download-111827?style=for-the-badge">
+    <img src="https://img.shields.io/badge/Resume-Download-0f172a?style=for-the-badge">
   </a>
   <a href="https://www.linkedin.com/in/raviranjan77/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
@@ -34,36 +34,42 @@ I build scalable, high-performance digital products with clean UI, strong archit
 
 ---
 
+<!-- ===================== VISITOR COUNTER ===================== -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Raviranjan010&label=Profile%20Views&color=6AA6FF&style=flat" />
+</p>
+
+---
+
 ## 👋 About Me
 
 I’m a **product-oriented Full-Stack Engineer** focused on building systems that are:
 
-- **Cleanly designed**
-- **Scalable by default**
-- **Performance-optimized**
-- **Easy to maintain**
+- Cleanly designed
+- Scalable by default
+- Performance-optimized
+- Easy to maintain
 
-I don’t just write code — I think in **systems, trade-offs, and long-term impact**.  
-My work blends **engineering discipline**, **UX clarity**, and **AI-aware thinking**.
+I think in **systems, trade-offs, and long-term impact**, not just features.
 
-**Current Focus**
 - 🎓 B.Tech CSE (3rd Year)
 - 🧠 System design & backend scalability
-- 🎨 UI/UX, micro-interactions, polish
-- 📊 Data & AI-assisted product decisions
+- 🎨 UI/UX & micro-interactions
+- 📊 Data & AI-driven product thinking
 
 ---
 
 ## 🧭 Engineering Philosophy
 
-> **Consistency beats motivation.**  
 > **Clarity beats complexity.**  
+> **Consistency beats motivation.**  
 > **Good systems outlive good features.**
 
-- Prefer **simple, explicit solutions**
-- Optimize for **readability before cleverness**
-- Design for **scale, not just success**
-- Ship → Measure → Improve
+- Simple, explicit code > clever abstractions  
+- Readability before optimization  
+- Design for scale, not shortcuts  
+- Ship → Measure → Improve  
 
 ---
 
@@ -74,87 +80,63 @@ My work blends **engineering discipline**, **UX clarity**, and **AI-aware thinki
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,cpp" />
 </p>
 
-### UI / UX & Styling
+### UI / UX
 <p>
   <img src="https://skillicons.dev/icons?i=figma,tailwind,scss,html,css" />
 </p>
 
-### Backend, Tools & Platforms
+### Backend & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,mongodb,mysql,docker,postman,vercel,vscode" />
 </p>
-
-**Strengths**
-- Reusable component architecture
-- API-first backend design
-- Performance optimization
-- Developer experience (DX)
 
 ---
 
 ## 🧩 What I Build
 
-- ⚙️ Full-stack web applications
+- ⚙️ Full-stack applications
 - 📊 Data-driven dashboards
-- 🤖 AI-assisted tools & workflows
-- 🎨 High-polish UI with smooth interactions
-- 🚀 Production-ready systems, not demos
+- 🤖 AI-assisted tools
+- 🎨 High-polish UI systems
+- 🚀 Production-ready architectures
 
 ---
 
 ## 🚀 Featured Projects
 
-> Structured for easy expansion with live demos & GIFs
-
 ### 🔹 Project Alpha
-**Type:** Production-grade full-stack app  
+**Type:** Production-ready full-stack system  
 **Tech:** React · Node.js · Database  
-**Focus:** Clean architecture, responsive UI, scalability  
-
-- Modular component system
-- Optimized API flows
-- Mobile-first UX
+**Focus:** Clean architecture, scalability, UX  
 
 ---
 
 ### 🔹 Project Beta
-**Type:** Data-driven / AI-assisted system  
+**Type:** Data / AI-powered application  
 **Tech:** Python · Analytics · Visualization  
 **Focus:** Insight clarity & performance  
 
-- Data-to-decision pipeline
-- Clean visual storytelling
-- Optimized computation
-
 ---
 
-## 🧪 Problem Solving & DSA
+## 🧪 DSA & System Thinking
 
-- Regular **DSA practice**
-- Focus on **patterns, not memorization**
-- Strong interest in **system-level thinking**
-- Comfortable explaining trade-offs clearly
+- Strong DSA fundamentals
+- Pattern-based problem solving
+- Comfortable explaining trade-offs
+- Interested in real-world system design
 
 ---
 
 ## 🧑‍💻 Freelance & Practical Experience
 
-- Delivered **client-ready applications**
-- Improved **UI performance & UX clarity**
-- Refactored messy codebases into **maintainable systems**
-- Strong emphasis on **clean handoff & documentation**
+- Delivered real client projects
+- Improved UI performance & UX clarity
+- Refactored messy codebases
+- Focused on clean documentation & handoff
 
 ---
 
-## 📚 Learning & Content
-
-- 🎥 YouTube: Tech, finance & learning content
-- 🧠 Learn by building real systems
-- 📘 Constantly improving fundamentals
-
----
-
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Raviranjan010&show_icons=true&theme=github_dark&hide_border=true" height="170" />
@@ -167,12 +149,27 @@ My work blends **engineering discipline**, **UX clarity**, and **AI-aware thinki
 
 ---
 
-## 🤝 Open To
+<!-- ===================== SNAKE ANIMATION ===================== -->
 
-- High-impact engineering challenges
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://github.com/Raviranjan010/Raviranjan010/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+> ⚠️ **Important:**  
+To enable the snake animation, you must add a GitHub Action.  
+Tell me and I’ll give you the **exact workflow file** (copy-paste).
+
+---
+
+## 🤝 Let’s Build Something Impactful
+
+I’m open to:
+- High-quality engineering challenges
 - Product-focused teams
-- Freelance & collaboration opportunities
-- Roles that value **clarity, scale, and craftsmanship**
+- Freelance & collaborations
+- Roles valuing clarity, scale & craftsmanship
 
 📩 **Email:** raviranjan01b@gmail.com  
 📄 **Resume:** [Download Here](https://drive.google.com/file/d/1br6hFGcO8iJSI1Vyb35y_yaEleYdThRa/view)
