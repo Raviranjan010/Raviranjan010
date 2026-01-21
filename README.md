@@ -1,23 +1,23 @@
-<!-- ========================================================= -->
-<!-- ======================= HERO ============================ -->
-<!-- ========================================================= -->
+<!-- ====================================================== -->
+<!-- ======================= HERO ========================= -->
+<!-- ====================================================== -->
 
 <h1 align="center">Ravi Ranjan</h1>
 
-<h3 align="center">
-Full-Stack Engineer · AI-Aware · Product-Driven
-</h3>
-
 <p align="center">
-I design and build scalable, performance-focused digital products with clean UI and strong system thinking.
+  <strong>Full-Stack Engineer · AI-Aware · System Thinker</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=900&color=6AA6FF&center=true&vCenter=true&width=900&lines=Full-Stack+Engineering;AI+%26+Data-Driven+Thinking;Clean+UI+%7C+Scalable+Systems;Consistency+Over+Motivation" />
+  Building scalable, high-performance products with clean UI and long-term architecture in mind.
 </p>
 
 <p align="center">
-  <img src="ravi_.jpeg" width="180" style="border-radius:50%; border:2px solid #6AA6FF;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=800&color=6AA6FF&center=true&vCenter=true&width=900&lines=Engineering+with+clarity;Systems+over+features;Clean+UI+%7C+Scalable+Backends;Consistency+creates+mastery" />
+</p>
+
+<p align="center">
+  <img src="ravi_.jpeg" width="170" style="border-radius:50%; border:3px solid #6AA6FF;" />
 </p>
 
 <p align="center">
@@ -34,150 +34,134 @@ I design and build scalable, performance-focused digital products with clean UI 
 
 ---
 
-<!-- ===================== VISITOR COUNTER ===================== -->
+<!-- ===================== VISITOR ===================== -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Raviranjan010&label=Profile%20Views&color=6AA6FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Raviranjan010&label=Profile+Views&color=6AA6FF&style=flat-square" />
 </p>
 
 ---
 
-## 👋 About Me
+## 🧭 About Me
 
-I’m a **product-oriented Full-Stack Engineer** focused on building systems that are:
+I’m a **product-focused Full-Stack Engineer** who thinks beyond features and writes code with **scale, clarity, and maintainability** in mind.
 
-- Cleanly designed
-- Scalable by default
-- Performance-optimized
-- Easy to maintain
+I care about:
+- Clean UI with real UX intent
+- Backend systems that don’t collapse at scale
+- Data-aware and AI-assisted thinking
+- Writing code future-me won’t hate
 
-I think in **systems, trade-offs, and long-term impact**, not just features.
-
+**Currently**
 - 🎓 B.Tech CSE (3rd Year)
 - 🧠 System design & backend scalability
-- 🎨 UI/UX & micro-interactions
-- 📊 Data & AI-driven product thinking
+- 🎨 UI polish & micro-interactions
+- 📊 Data & AI-driven products
 
 ---
 
-## 🧭 Engineering Philosophy
+## 🧠 Engineering Mindset
 
-> **Clarity beats complexity.**  
-> **Consistency beats motivation.**  
-> **Good systems outlive good features.**
+> “Simple systems beat complex solutions.”
 
-- Simple, explicit code > clever abstractions  
-- Readability before optimization  
-- Design for scale, not shortcuts  
+- Explicit > clever  
+- Readability > shortcuts  
+- Scale > hacks  
 - Ship → Measure → Improve  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### Core Engineering
+### Core
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,cpp" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,cpp&theme=dark" />
 </p>
 
 ### UI / UX
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,tailwind,scss,html,css" />
+  <img src="https://skillicons.dev/icons?i=figma,tailwind,scss,html,css&theme=dark" />
 </p>
 
-### Backend & Tools
+### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,mongodb,mysql,docker,postman,vercel,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,mongodb,mysql,docker,postman,vercel,vscode&theme=dark" />
 </p>
 
 ---
 
-## 🧩 What I Build
+## 🚀 What I Build
 
 - ⚙️ Full-stack applications
-- 📊 Data-driven dashboards
+- 📊 Data dashboards
 - 🤖 AI-assisted tools
 - 🎨 High-polish UI systems
-- 🚀 Production-ready architectures
+- 🏗️ Production-ready architectures
 
 ---
 
-## 🚀 Featured Projects
+## 📈 Live GitHub Activity (ANIMATED)
 
-### 🔹 Project Alpha
-**Type:** Production-ready full-stack system  
-**Tech:** React · Node.js · Database  
-**Focus:** Clean architecture, scalability, UX  
-
----
-
-### 🔹 Project Beta
-**Type:** Data / AI-powered application  
-**Tech:** Python · Analytics · Visualization  
-**Focus:** Insight clarity & performance  
-
----
-
-## 🧪 DSA & System Thinking
-
-- Strong DSA fundamentals
-- Pattern-based problem solving
-- Comfortable explaining trade-offs
-- Interested in real-world system design
-
----
-
-## 🧑‍💻 Freelance & Practical Experience
-
-- Delivered real client projects
-- Improved UI performance & UX clarity
-- Refactored messy codebases
-- Focused on clean documentation & handoff
-
----
-
-## 📊 GitHub Stats
+### 🔥 Contribution Activity Graph (Real Motion)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raviranjan010&show_icons=true&theme=github_dark&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raviranjan010&layout=compact&theme=github_dark&hide_border=true" height="170" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raviranjan010&theme=github-dark&bg_color=0d1117&hide_border=true&line=6AA6FF&point=FFFFFF" />
+</p>
+
+✅ **This graph is dynamic**  
+✅ Shows **real contribution flow**  
+✅ Much better than static icons
+
+---
+
+## 📊 GitHub Stats (Redesigned)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raviranjan010&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Raviranjan010&theme=github-dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raviranjan010&theme=github_dark" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raviranjan010&theme=github_dark&utcOffset=5.5" height="165" />
 </p>
+
+👉 These are **animated-feel stat cards**, not boring default images.
 
 ---
 
-<!-- ===================== SNAKE ANIMATION ===================== -->
-
-## 🐍 Contribution Activity
+## 🐍 Contribution Snake (Animation)
 
 <p align="center">
-  <img src="https://github.com/Raviranjan010/Raviranjan010/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Raviranjan010/Raviranjan010/output/github-contribution-grid-snake.svg" />
 </p>
 
-> ⚠️ **Important:**  
-To enable the snake animation, you must add a GitHub Action.  
-Tell me and I’ll give you the **exact workflow file** (copy-paste).
+⚠️ **Required GitHub Action**  
+Say **“give me snake workflow”** and I’ll give you the exact file.
 
 ---
 
-## 🤝 Let’s Build Something Impactful
+## 🧑‍💻 Experience
 
-I’m open to:
-- High-quality engineering challenges
-- Product-focused teams
+- Built real-world applications
+- Improved UI performance & UX
+- Refactored unscalable codebases
+- Delivered clean, documented projects
+
+---
+
+## 🎯 Open To
+
+- Product-driven engineering roles
 - Freelance & collaborations
-- Roles valuing clarity, scale & craftsmanship
+- High-impact systems work
+- Teams that value clarity & scale
 
 📩 **Email:** raviranjan01b@gmail.com  
-📄 **Resume:** [Download Here](https://drive.google.com/file/d/1br6hFGcO8iJSI1Vyb35y_yaEleYdThRa/view)
+📄 **Resume:** [Download](https://drive.google.com/file/d/1br6hFGcO8iJSI1Vyb35y_yaEleYdThRa/view)
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e293b&height=80&section=footer" />
-  <br/>
-  <sub>Built with focus · systems thinking · long-term vision</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=90&section=footer" />
+  <sub>Built with discipline · systems thinking · long-term vision</sub>
 </p>
