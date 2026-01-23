@@ -1,98 +1,164 @@
-🚀 Ravi Ranjan
-Full-Stack Engineer · AI-Aware · System Thinker
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=900&color=6AA6FF&center=true&vCenter=true&width=700&lines=Engineering+with+clarity;Systems+over+features;Clean+UI+meets+scalable+backend;Consistency+creates+mastery" /> </p> <p align="center"> <img src="ravi_.jpeg" width="160" style="border-radius:50%; border:3px solid #6AA6FF;" /> </p> <p align="center"> <a href="https://drive.google.com/file/d/1br6hFGcO8iJSI1Vyb35y_yaEleYdThRa/view"> <img src="https://img.shields.io/badge/Resume-Download-0f172a?style=for-the-badge" /> </a> <a href="https://www.linkedin.com/in/raviranjan77/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:raviranjan01b@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" /> </a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Raviranjan010&label=Profile+Views&color=6AA6FF&style=flat-square" /> </p>
-🧭 About Me
-I’m a product-focused Full-Stack Engineer who designs software with
-clarity, scalability, and long-term maintainability in mind.
+<!-- ====================================================== -->
+<!-- ======================= HERO ========================= -->
+<!-- ====================================================== -->
 
-I don’t just write features — I build systems that survive growth.
+<div align="center">
 
-What matters to me
+<h1>Ravi Ranjan</h1>
 
-Clean UI with real UX intent
+<p>
+  <strong>Full-Stack Engineer · System Thinker · AI-Aware Builder</strong>
+</p>
 
-Backend systems that scale predictably
+<p>
+  I design and engineer scalable, production-ready systems with a strong focus on clean UI, performance, and long-term maintainability.
+</p>
 
-AI-assisted & data-aware thinking
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=900&color=6AA6FF&center=true&vCenter=true&width=900&lines=Systems+over+features;Clean+UI+with+engineering+depth;Scale-first+backend+thinking;Build+→+Measure+→+Improve" />
 
-Code future-me won’t regret
+<br/>
 
-🧠 Engineering Mindset
-Simple systems beat complex solutions
-Readable code > clever tricks
-Architecture before features
-Ship → Measure → Improve
+<img src="ravi_.jpeg" width="170" style="border-radius:50%; border:3px solid #6AA6FF;" />
+
+<br/><br/>
+
+<a href="https://drive.google.com/file/d/1br6hFGcO8iJSI1Vyb35y_yaEleYdThRa/view">
+  <img src="https://img.shields.io/badge/Resume-Download-0f172a?style=for-the-badge">
+</a>
+<a href="https://www.linkedin.com/in/raviranjan77/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+<a href="mailto:raviranjan01b@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail">
+</a>
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Raviranjan010&label=Profile+Views&color=6AA6FF&style=flat-square" />
+</p>
+
+---
+
+## 🧭 About Me
+
+I’m a **product-focused Full-Stack Engineer** who thinks beyond features and writes code that scales — technically and structurally.
+
 I optimize for:
+- **Clarity over cleverness**
+- **Systems over shortcuts**
+- **UX backed by real engineering**
+- **Code future-me (and teammates) won’t hate**
 
-Long-term velocity
+### Current Focus
+- 🎓 B.Tech CSE — 3rd Year  
+- 🧠 Backend scalability & system design fundamentals  
+- 🎨 UI polish, motion & micro-interactions  
+- 📊 Data-aware & AI-assisted product thinking  
 
-Debuggability
+---
 
-Ownership & clarity
+## 🧠 Engineering Philosophy
 
-🎯 Current Focus
-Area	Focus
-🎓	B.Tech CSE (3rd Year)
-🧠	Backend systems & scalability
-🎨	UI polish & micro-interactions
-🤖	AI-assisted products
-🚀	Production-ready apps
-🛠 Tech Stack
-⚙️ Core Engineering
-<p> <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,cpp&theme=dark" /> </p>
-🎨 UI / UX
-<p> <img src="https://skillicons.dev/icons?i=figma,tailwind,scss,html,css&theme=dark" /> </p>
-🧰 Tools & Platforms
-<p> <img src="https://skillicons.dev/icons?i=git,github,mongodb,mysql,docker,postman,vercel,vscode&theme=dark" /> </p>
-Clean icons, no overflow, responsive on mobile.
+> “Complexity is easy. Simplicity takes discipline.”
 
-🚀 What I Build
-⚙️ Full-stack applications
+- Explicit > implicit  
+- Readability > tricks  
+- Maintainability > speed hacks  
+- Ship → Measure → Improve → Repeat  
 
-📊 Data dashboards
+---
 
-🤖 AI-assisted tools
+## 🛠 Tech Stack
 
-🎨 Design-forward UI systems
+### Core Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,cpp&theme=dark" />
+</p>
 
-🏗️ Scalable backend architectures
+### UI / UX & Design
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,tailwind,scss,html,css&theme=dark" />
+</p>
 
-Focused on real deployment, not demos.
+### Backend · Cloud · Tooling
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,mongodb,mysql,docker,postman,vercel,vscode&theme=dark" />
+</p>
 
-📈 GitHub Activity (Stable Preview)
-🔥 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raviranjan010&theme=github-dark&bg_color=0d1117&hide_border=true&line=6AA6FF&point=FFFFFF" width="100%" /> </p>
-✔ No overflow
-✔ Scales on all screens
-✔ No animation glitch
+---
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raviranjan010&theme=github_dark" width="100%" /> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raviranjan010&theme=github_dark" width="49%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raviranjan010&theme=github_dark&utcOffset=5.5" width="49%" /> </p>
-✔ Balanced layout
-✔ No card collision
-✔ Mobile-safe
+## 🚀 What I Build
 
-🐍 Contribution Snake
-<p align="center"> <img src="https://raw.githubusercontent.com/Raviranjan010/Raviranjan010/output/github-contribution-grid-snake.svg" width="100%" /> </p>
-Optional visual — does not break layout
+- ⚙️ Full-stack web applications  
+- 📊 Data dashboards & admin panels  
+- 🤖 AI-assisted productivity tools  
+- 🎨 Design-driven UI systems  
+- 🏗️ Clean, production-ready architectures  
 
-🧑‍💻 Experience Snapshot
-Built and shipped real-world applications
+---
 
-Refactored unscalable codebases
+## 📈 Live GitHub Activity
 
-Improved UI performance & UX
+### 🔥 Contribution Graph (Dynamic)
 
-Delivered clean, documented code
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raviranjan010&theme=github-dark&bg_color=0d1117&hide_border=true&line=6AA6FF&point=FFFFFF" />
+</p>
 
-🎯 Open To
-Product-driven engineering roles
+✔ Real contribution flow  
+✔ Continuously updated  
+✔ Clear signal of consistency  
 
-Freelance & collaborations
+---
 
-Teams that value clarity and scale
+## 📊 GitHub Stats
 
-📩 Email: raviranjan01b@gmail.com
-📄 Resume: Download
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raviranjan010&theme=github_dark" />
+</p>
 
-<p align="center"> <sub>Built with discipline · systems thinking · long-term vision</sub> </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Raviranjan010&theme=github_dark" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Raviranjan010&theme=github_dark&utcOffset=5.5" height="165" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (Animation)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Raviranjan010/Raviranjan010/output/github-contribution-grid-snake.svg" />
+</p>
+
+> Visual proof of long-term consistency.
+
+---
+
+## 🧑‍💻 Experience Snapshot
+
+- Built real-world projects end-to-end  
+- Improved UI performance & UX clarity  
+- Refactored unscalable codebases  
+- Delivered clean, documented solutions  
+
+---
+
+## 🎯 Open To
+
+- Product-driven engineering roles  
+- Freelance & serious collaborations  
+- Backend / Full-Stack opportunities  
+- Teams that value **clarity, scale & ownership**
+
+📩 **Email:** raviranjan01b@gmail.com  
+📄 **Resume:** [Download](https://drive.google.com/file/d/1br6hFGcO8iJSI1Vyb35y_yaEleYdThRa/view)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=90&section=footer" />
+  <sub>Built with discipline · systems thinking · long-term vision</sub>
+</p>
