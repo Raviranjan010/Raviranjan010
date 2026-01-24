@@ -46,7 +46,7 @@
 
 I’m a **product-focused Full-Stack Engineer** who thinks beyond features.
 
-I don’t just ship code — I design **systems that survive scale, change, and future requirements**.
+I don’t just ship code — I design **systems that scale, adapt, and survive real-world usage**.
 
 ### I optimize for:
 - **Clarity over cleverness**
@@ -105,7 +105,7 @@ I don’t just ship code — I design **systems that survive scale, change, and 
 
 ---
 
-## 🧪 How I Work (Real Signals)
+## 🧪 How I Work
 
 - Design before code  
 - Measure performance, not vibes  
@@ -115,7 +115,7 @@ I don’t just ship code — I design **systems that survive scale, change, and 
 
 ---
 
-## 📈 GitHub Activity (Live Proof)
+## 📈 GitHub Activity (Live)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raviranjan010&theme=github-dark&bg_color=0d1117&hide_border=true&line=6AA6FF&point=FFFFFF" />
@@ -139,8 +139,14 @@ I don’t just ship code — I design **systems that survive scale, change, and 
 ## 🐍 Contribution Snake (Automation)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Raviranjan010/Raviranjan010/output/github-contribution-grid-snake.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Raviranjan010/Raviranjan010/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Raviranjan010/Raviranjan010/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
+
+> Auto-generated daily using GitHub Actions — visual proof of long-term consistency.
 
 ---
 
