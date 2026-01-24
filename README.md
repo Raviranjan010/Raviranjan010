@@ -11,7 +11,7 @@
 </p>
 
 <p>
-  I design and engineer scalable, production-ready systems with a strong focus on clean UI, performance, and long-term maintainability.
+  I engineer scalable, production-ready systems with a strong bias toward clarity, performance, and long-term maintainability.
 </p>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=900&color=6AA6FF&center=true&vCenter=true&width=900&lines=Systems+over+features;Clean+UI+with+engineering+depth;Scale-first+backend+thinking;Build+→+Measure+→+Improve" />
@@ -44,15 +44,20 @@
 
 ## 🧭 About Me
 
-I’m a **product-focused Full-Stack Engineer** who thinks beyond features and writes code that scales — technically and structurally.
+I’m a **product-focused Full-Stack Engineer** who thinks beyond features.
 
-I optimize for:
+I don’t just ship code — I design **systems that survive scale, change, and future requirements**.
+
+### I optimize for:
 - **Clarity over cleverness**
 - **Systems over shortcuts**
 - **UX backed by real engineering**
 - **Code future-me (and teammates) won’t hate**
 
-### Current Focus
+---
+
+## 🎯 Current Focus
+
 - 🎓 B.Tech CSE — 3rd Year  
 - 🧠 Backend scalability & system design fundamentals  
 - 🎨 UI polish, motion & micro-interactions  
@@ -100,17 +105,21 @@ I optimize for:
 
 ---
 
-## 📈 Live GitHub Activity
+## 🧪 How I Work (Real Signals)
 
-### 🔥 Contribution Graph (Dynamic)
+- Design before code  
+- Measure performance, not vibes  
+- Refactor early, not late  
+- Optimize for humans reading code  
+- Ship small → iterate fast  
+
+---
+
+## 📈 GitHub Activity (Live Proof)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Raviranjan010&theme=github-dark&bg_color=0d1117&hide_border=true&line=6AA6FF&point=FFFFFF" />
 </p>
-
-✔ Real contribution flow  
-✔ Continuously updated  
-✔ Clear signal of consistency  
 
 ---
 
@@ -127,13 +136,11 @@ I optimize for:
 
 ---
 
-## 🐍 Contribution Snake (Animation)
+## 🐍 Contribution Snake (Automation)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Raviranjan010/Raviranjan010/output/github-contribution-grid-snake.svg" />
 </p>
-
-> Visual proof of long-term consistency.
 
 ---
 
