@@ -7,7 +7,8 @@
 <h1>Ravi Ranjan</h1>
 
 <p>
-  <strong>Full-Stack Engineer · System Thinker · AI-Aware Builder</strong>
+  <strong>Full-Stack Engineer · System Thinker · AI-and Tech_enthusiast</strong>
+  
 </p>
 
 <p>
