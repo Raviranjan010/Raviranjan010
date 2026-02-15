@@ -35,7 +35,7 @@
 
 </div>
 
----
+-----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Raviranjan010&label=Profile+Views&color=6AA6FF&style=flat-square" />
@@ -53,7 +53,7 @@ I don’t just ship code — I design **systems that scale, adapt, and survive r
 - **Clarity over cleverness**
 - **Systems over shortcuts**
 - **UX backed by real engineering**
-- **Code future-me (and teammates) won’t hate**
+- **Code </>  future-me (and teammates) won’t hate**
 
 ---
 
