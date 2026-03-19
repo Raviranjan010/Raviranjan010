@@ -23,6 +23,7 @@
 
 <br/><br/>
 
+
 <a href="https://drive.google.com/file/d/1br6hFGcO8iJSI1Vyb35y_yaEleYdThRa/view">
   <img src="https://img.shields.io/badge/Resume-Download-0f172a?style=for-the-badge">
 </a>
@@ -58,6 +59,7 @@ I don’t just ship code — I design **systems that scale, adapt, and survive r
 ---
 
 ## 🎯 Current Focus
+
 
 - 🎓 B.Tech CSE — 3rd Year  
 - 🧠 Backend scalability & system design fundamentals  
