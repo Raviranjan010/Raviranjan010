@@ -173,7 +173,7 @@ I don’t just ship code — I design **systems that scale, adapt, and survive r
 📄 **Resume:** [Download](https://drive.google.com/file/d/1br6hFGcO8iJSI1Vyb35y_yaEleYdThRa/view)
 
 ---
-
+----
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=90&section=footer" />
   <sub>Built with discipline · systems thinking · long-term vision</sub>
