@@ -17,6 +17,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&pause=900&color=6AA6FF&center=true&vCenter=true&width=900&lines=Systems+over+features;Clean+UI+with+engineering+depth;Scale-first+backend+thinking;Build+→+Measure+→+Improve" />
 
+
 <br/>
 
 <img src="ravi_.jpeg" width="170" style="border-radius:50%; border:3px solid #6AA6FF;" />
@@ -42,7 +43,7 @@
   <img src="https://komarev.com/ghpvc/?username=Raviranjan010&label=Profile+Views&color=6AA6FF&style=flat-square" />
 </p>
 
----
+-----
 
 ## 🧭 About Me
 
