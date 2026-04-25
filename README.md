@@ -20,7 +20,7 @@
 
 <br/>
 
-<img src="ravi_.jpeg" width="170" style="border-radius:50%; border:3px solid #6AA6FF;" />
+<img src="ravi_.png" width="170" style="border-radius:50%; border:3px solid #6AA6FF;" />
 
 <br/><br/>
 
@@ -128,6 +128,8 @@ I don’t just ship code — I design **systems that scale, adapt, and survive r
 ---
 
 ## 📊 GitHub Stats
+
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Raviranjan010&theme=github_dark" />
