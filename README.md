@@ -20,7 +20,7 @@
 
 <br/>
 
-<img src="ravi_.png" width="170" style="border-radius:50%; border:3px solid #6AA6FF;" />
+<img src="ravi_.jpg" width="170" style="border-radius:50%; border:3px solid #6AA6FF;" />
 
 <br/><br/>
 
